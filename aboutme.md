@@ -11,5 +11,5 @@ Hi, I'm Grey. While I may have no coding experience, I do have experience in oth
 
 I guess maybe I'm particularly interested in learning about lights. We'll see how much I understand them by the end of my project!
 
-https://greyballarini.github.io/assets/img/vines.jpg
-https://greyballarini.github.io/assets/img/electra.jpg
+(https://greyballarini.github.io/assets/img/vines.jpg)
+(https://greyballarini.github.io/assets/img/electra.jpg)
