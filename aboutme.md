@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: In case you were wondering
+subtitle: Why am I interested in Electronic Textiles?
 ---
 
-Hi, I'm Grey. I have no coding experience. But I have experience in other things!
+Hi, I'm Grey. While I may have no coding experience, I do have experience in other things, mostly creative skills (you can check it out for yourself in my artistic portolio two tabs over). I'm taking this class because I'd like to combine my passion for art with a stronger understanding of coding, which could have helped me with several of previous projects, such as:
 
-- I'm majoring in Art History and English
-- I have a job building sets for various shows
+- The light up costume I painstakingly made for the musical Gypsy. This was all through trial and error and I would have been greatly benefitted by having any real understanding of how lights work.
+- The vine I crocheted as room decor and prayed wouldn't catch fire when I wrapped fairy lights around it.
 
-I also enjoy other (mostly creative) things. Check out my portfolio website two tabs over.
+I guess maybe I'm particularly interested in learning about lights. We'll see how much I understand them by the end of my project!
+
+https://greyballarini.github.io/assets/img/vines.jpg
+https://greyballarini.github.io/assets/img/electra.jpg
