@@ -3,9 +3,8 @@ layout: post
 title: First Post
 subtitle: This is my first post.
 cover-img: /assets/img/sleeping_cat.jpg
-thumbnail-img: /assets/img/https://github.com/greyballarini/greyballarini.github.io/blob/a305fe7cce77131da35ee0f9b51d7c341d736f64/assets/bookshelf_cat.jpg
-share-img: /assets/img/sleeping_cat.jpg
-tags: [cats, new]
+thumbnail-img: https://greyballarini.github.io/assets/img/bookshelf_cat.jpg
+tags: [cat, new]
 author: Grey Ballarini
 ---
 
