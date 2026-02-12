@@ -4,7 +4,7 @@ title: Who am I?
 subtitle: Get to know me in my first post
 cover-img: /assets/img/sleeping_cat1.jpg
 thumbnail-img: /assets/img/bookshelf_cat.jpg
-tags: [cats, new]
+tags: [welcome]
 author: Grey Ballarini
 ---
 
