@@ -2,7 +2,7 @@
 layout: post
 title: First Post
 subtitle: This is my first post.
-cover-img: /assets/img/sleeping_cat.jpg
+cover-img: /assets/img/sleeping_cat1.jpg
 thumbnail-img: /assets/img/bookshelf_cat.jpg
 tags: [cats, new]
 author: Grey Ballarini
