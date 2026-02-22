@@ -16,4 +16,4 @@ This sewing sampler features running, back, cross, satin, stem, blanket, whip, l
 
 ![back](https://greyballarini.github.io/assets/img/sewing.sampler.back.HEIC)
 
-A tip I would have given my past self would be to think more about the “wrong side” of the work. Specifically, I would try to be more certain about the satin stitch, as I struggled to find a straight forward tutorial for the “conserving approach” and I am not confident I did this right. I think I have since figured it out and will be able to use the coonserving approach in the future. Beyond that I think I should have cut slightly longer pieces of floss to reduce knots on the back.
+A tip I would have given my past self would be to think more about the “wrong side” of the work. Specifically, I would try to be more certain about the satin stitch, as I struggled to find a straight forward tutorial for the “conserving approach” and I am not confident I did this right. I think I have since figured it out and will be able to use the conserving approach in the future. Beyond that I think I should have cut slightly longer pieces of floss to reduce knots on the back.
