@@ -10,7 +10,7 @@ author: Grey Ballarini
 
 This sewing sampler features running, back, cross, satin, stem, blanket, whip, lazy daisy (with small modifications to make a more interesting petal shape), and fern stitches.
 
-! [front] (https://greyballarini.github.io/assets/img/sewing.sampler.full.jpg)
+! [front] (https://greyballarini.github.io/assets/img/sewing.sampler.full.HEIC)
 
 ! [detail] (https://greyballarini.github.io/assets/img/sewing.sampler.williams.detail.HEIC)
 
