@@ -8,12 +8,10 @@ tags: [sewing]
 author: Grey Ballarini
 ---
 
-Hello! I'm Grey Ballarini and I am an Art History and English major (class of '29) building a website for my computer science class.
+This sewing sampler features running, back, cross, satin, stem, blanket, whip, lazy daisy (with small modifications to make a more interesting petal shape), and fern stitches.
 
-I do not have any programming experience, but I do have some sewing experience. I'd definitely like to improve on both of these fronts. I also aim to build my crochet skills as a form of textile in this class, as it's been a long time since I've crocheted consistently. 
+! (https://greyballarini.github.io/img/sewing.sampler.full.HEIC)
+! (https://greyballarini.github.io/img/sewing.sampler.williams.detail.HEIC)
+! (https://greyballarini.github.io/img/sewing.sampler.back.HEIC)
 
-Generally speaking, I have already fulfilled one of my goals (learning literally anything about coding), and I aim to grow my skills as much as possible in this class. And maybe end up a little less scared of computers. So far I've been struggling with adding images, but I think I've finally gotten the hang of it.
-
-A boring fact about me is that I am from Phoenix (this may be less boring at Williams where almost no one is from Arizona).
-
-Thank you for reading! I hope you enjoy witnessing the rest of my journey into computer science.
+A tip I would have given my past self would be to think more about the “wrong side” of the work. Specifically, I would try to be more certain about the satin stitch, as I struggled to find a straight forward tutorial for the “conserving approach” and I am not confident I did this right. I think I have since figured it out and will be able to use the coonserving approach in the future. Beyond that I think I should have cut slightly longer pieces of floss to reduce knots on the back.
