@@ -2,13 +2,13 @@
 layout: post
 title: Circuit Plushy
 subtitle: First project using conductive thread and light parts
-cover-img: assets/img/plushy_alligator_prototype.HEIC
+cover-img: assets/img/plushie_alligator_prototype.HEIC
 thumbnail-img: assets/img/plushie_front_lights.HEIC
 tags: [plushy]
 author: Grey Ballarini
 ---
 
-This plushy's light up feature is activated by a button and switch. The electronic components are connected with conductive thread.
+This plushy's light up feature is activated by a button and a switch. The electronic components are connected with conductive thread.
 
 ![lights](https://greyballarini.github.io/assets/img/plushie_front_lights.HEIC)
 
