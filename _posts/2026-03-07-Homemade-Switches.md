@@ -14,6 +14,9 @@ This project features two homemade switches, one made from two conductive thread
 
 ![on](https://greyballarini.github.io/assets/img/homemade_switches_on.jpg)
 
+![embroidery](https://greyballarini.github.io/assets/img/homemade_switches_embrpidery.jpg)
+(Added embroidery)
+
 ![alligator](https://greyballarini.github.io/assets/img/homemade_switches_alligator.jpg)
 
 ![paper1](https://greyballarini.github.io/assets/img/homemade_switches_paper1.jpg)
