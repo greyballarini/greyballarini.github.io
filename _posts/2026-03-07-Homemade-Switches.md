@@ -10,9 +10,9 @@ author: Grey Ballarini
 
 This project features two homemade switches, one made from two condicted thread patches and one made from a patch and a paper clip.
 
-![on](https://greyballarini.github.io/assets/img/homemade_switches_on.jpg)
-
 ![back](https://greyballarini.github.io/assets/img/homemade_switches_back.jpg)
+
+![on](https://greyballarini.github.io/assets/img/homemade_switches_on.jpg)
 
 ![off](https://greyballarini.github.io/assets/img/homemade_switches_off.jpg)
 
