@@ -8,7 +8,7 @@ tags: [loop]
 author: Grey Ballarini
 ---
 
-This code turns on three LED lights in a loop.
+This code turns on varying LED lights every 10th time through a loop.
 
 ![green](https://greyballarini.github.io/assets/img/rgbled_green.jpg)
 
