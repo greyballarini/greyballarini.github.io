@@ -2,7 +2,7 @@
 layout: post
 title: Ghost Detector
 subtitle: Code to light up LEDs based on cetrain threshholds of darkness and coldness
-cover-img: assets/img/ghostss.png
+cover-img: assets/img/ghost.jpg
 thumbnail-img: assets/img/ghost_detector.jpg
 tags: [ghost]
 author: Grey Ballarini
