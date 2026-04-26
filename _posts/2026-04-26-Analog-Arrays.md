@@ -12,4 +12,4 @@ A code to turn on or off a random PWM pin to a random value every one second.
 
 ![output](https://greyballarini.github.io/assets/img/arrays_output.jpg)
 
-A tip to my past self would be to remember to put variables under void loop.
+A tip to my past self would be to remember I can put variables under void loop.
