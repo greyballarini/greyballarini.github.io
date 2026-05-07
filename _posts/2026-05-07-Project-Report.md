@@ -1,0 +1,28 @@
+---
+layout: post
+title: Awesome Opossum
+subtitle: Project report
+cover-img: assets/img/
+thumbnail-img: assets/img/
+tags: [opossum]
+author: Grey Ballarini
+---
+
+This Awesome Opossum lights up and screams! When you pull his tail, the button placed there triggers a buzzer. Because his eyes don't shine like a typical nocturnal critter, his ears light up as an aid. When a certain darkness threshold is reached, they glow red.
+
+I love stuffed animals, and I thought it would be really fun to use lights on a nocturnal critter so it feels "realistic" that it would activate in the dark.
+
+![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
+OTHER WORKING IMAGES
+
+![alligator](https://greyballarini.github.io/assets/img/alligator_final.jpg)
+
+Three tips to my past self would be:
+1. Consider placing the light sensor on the side of the plush. I think finding the dark threshold would have been a little more convenient if the sensor wasn't on the bottom. For the sake of demo when not in total darkness, I have to choose if I want the simulated darkness to apply when I cover the sensor with my finger while holding the plush versus when it's set on a surface and therefore casting its own shadow.
+2. Use serial print earlier! It was so much easier to find the dark threshold once I started doing this, and I'm not sure why I didn't in the first place.
+3. Stop stressing about making the buzzer frequency increase. I found (and cited) an online source and instantly understood the whole concept much more clearly.
+4. BONUS: Don't be afraid of the buzzer! I was worried about connecting the buzzer and the button to different pins instead of connecting them to each other, but I ended up finding the coding of this pretty straight forward. I think a good tip to myself this entire class would have been to believe in myself more.
+
+Citations:
+Thank you to Grumpy_Mike on Arduino.cc for explaining how to increase the frequency of a buzzer.
+https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo-buzzer-for-a-specific-range/416823 
