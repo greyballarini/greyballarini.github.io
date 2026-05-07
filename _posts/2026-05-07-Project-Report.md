@@ -12,6 +12,20 @@ This Awesome Opossum lights up and screams! When you pull his tail, the button p
 
 My motivation is that I love stuffed animals, and I thought it would be really fun to use lights on a nocturnal critter so it feels "realistic" that it would activate in the dark.
 
+Materials list:
+- 1 Opossum plush
+- 1 Arduino
+- 1 Buzzer
+- 1 Button
+- 1 Light sensor
+- 2 red LEDs
+- 1 embroidery needle
+- 1 sewing needle
+- 1 Pair of scissors
+- Conductive thread
+- White embroidery floss
+- Light pink sewing thread
+
 ![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
 OTHER WORKING IMAGES
 
