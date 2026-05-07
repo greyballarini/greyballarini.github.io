@@ -27,9 +27,13 @@ Materials list:
 - Light pink sewing thread
 
 ![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
+In the dark
 OTHER WORKING IMAGES
 
+
 ![alligator](https://greyballarini.github.io/assets/img/alligator_final.jpg)
+Alligator clip stage
+
 
 ![paper](https://greyballarini.github.io/assets/img/paper_prototype_final.jpg)
 While I did not have any errors in my initial paper prototype, I figured I would submit an updated copy because I did make some very minor changes to the circuitry.
