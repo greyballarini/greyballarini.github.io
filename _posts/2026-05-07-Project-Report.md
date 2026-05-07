@@ -47,4 +47,5 @@ Three tips to my past self would be:
 
 Citations:
 Thank you to Grumpy_Mike on Arduino.cc for explaining how to code this kind of buzzer behavior.
+
 Source: https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo-buzzer-for-a-specific-range/416823 
