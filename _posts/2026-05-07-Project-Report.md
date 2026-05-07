@@ -38,6 +38,7 @@ Alligator clip stage
 ![paper](https://greyballarini.github.io/assets/img/paper_prototype_final.jpg)
 While I did not have any errors in my initial paper prototype, I figured I would submit an updated copy because I did make some very minor changes to the circuitry.
 
+
 Three tips to my past self would be:
 1. Consider placing the light sensor on the side of the plush. I think finding the dark threshold would have been a little more convenient if the sensor wasn't on the bottom. For the sake of demo when not in total darkness, I have to choose if I want the simulated darkness to apply when I cover the sensor with my finger while holding the plush versus when it's set on a surface and therefore casting its own shadow.
 2. Use serial print earlier! It was so much easier to find the dark threshold once I started doing this, and I'm not sure why I didn't in the first place.
@@ -46,4 +47,5 @@ Three tips to my past self would be:
 
 Citations:
 Thank you to Grumpy_Mike on Arduino.cc for explaining how to code this kind of buzzer behavior.
+
 https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo-buzzer-for-a-specific-range/416823 
