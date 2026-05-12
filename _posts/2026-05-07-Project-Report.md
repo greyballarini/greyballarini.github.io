@@ -26,9 +26,9 @@ Materials list:
 - White embroidery floss
 - Light pink sewing thread
 
-![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
 ![dark2](https://greyballarini.github.io/assets/img/opossum_dark_2.jpg)
 
+![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
 In the dark
 OTHER WORKING IMAGES
 
