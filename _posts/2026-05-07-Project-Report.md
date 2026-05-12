@@ -58,3 +58,4 @@ Source: https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo
 Friends!
 
 ![camera](https://greyballarini.github.io/assets/img/opossum_camera.jpg)
+📸
