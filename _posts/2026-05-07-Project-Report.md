@@ -26,9 +26,11 @@ Materials list:
 - White embroidery floss
 - Light pink sewing thread
 
-Check out the video of it working! https://youtu.be/1to_oczFkAc
-
 ![working](https://greyballarini.github.io/assets/img/opossum_final.jpg)
+
+![video](https://greyballarini.github.io/assets/img/opossum_thumbnail.jpg)
+Check out the video of it working! 
+https://youtu.be/1to_oczFkAc
 
 ![dark2](https://greyballarini.github.io/assets/img/opossum_dark_2.jpg)
 In the dark
