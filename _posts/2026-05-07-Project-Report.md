@@ -27,6 +27,8 @@ Materials list:
 - Light pink sewing thread
 
 ![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
+![dark2](https://greyballarini.github.io/assets/img/opossum_dark_2.jpg)
+
 In the dark
 OTHER WORKING IMAGES
 
