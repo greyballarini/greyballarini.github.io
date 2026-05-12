@@ -27,7 +27,7 @@ Materials list:
 - Light pink sewing thread
 
 ![working](https://greyballarini.github.io/assets/img/opossum_final.jpg)
-Lighting adjusted to stay on
+LEDs adjusted to stay on
 
 ![video](https://greyballarini.github.io/assets/img/opossum_thumbnail.jpg)
 Check out the video of it working! 
