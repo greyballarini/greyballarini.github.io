@@ -2,8 +2,8 @@
 layout: post
 title: Awesome Opossum
 subtitle: Project report
-cover-img: assets/img/
-thumbnail-img: assets/img/
+cover-img: assets/img/assets/img/opossum_thumbnail.jpg
+thumbnail-img: assets/img/assets/img/opossum_final.jpg
 tags: [opossum]
 author: Grey Ballarini
 ---
@@ -27,6 +27,7 @@ Materials list:
 - Light pink sewing thread
 
 ![working](https://greyballarini.github.io/assets/img/opossum_final.jpg)
+Lighting adjusted to stay on
 
 ![video](https://greyballarini.github.io/assets/img/opossum_thumbnail.jpg)
 Check out the video of it working! 
@@ -37,7 +38,6 @@ In the dark
 
 ![alligator](https://greyballarini.github.io/assets/img/alligator_final.jpg)
 Alligator clip stage
-
 
 ![paper](https://greyballarini.github.io/assets/img/paper_prototype_final.jpg)
 While I did not have any errors in my initial paper prototype, I figured I would submit an updated copy because I did make some very minor changes to the circuitry.
@@ -55,5 +55,6 @@ Thank you to Grumpy_Mike on Arduino.cc for explaining how to code this kind of b
 Source: https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo-buzzer-for-a-specific-range/416823 
 
 ![friends](https://greyballarini.github.io/assets/img/opossum_friends.jpg)
+Friends!
 
 ![camera](https://greyballarini.github.io/assets/img/opossum_camera.jpg)
