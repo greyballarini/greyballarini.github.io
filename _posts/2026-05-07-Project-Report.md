@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awesome Opossum
+title: Awesome Opossum!
 subtitle: Project report
 cover-img: assets/img/opossum_thumbnail.jpg
 thumbnail-img: assets/img/opossum_final.jpg
