@@ -26,12 +26,12 @@ Materials list:
 - White embroidery floss
 - Light pink sewing thread
 
+Check out the video of it working! https://youtu.be/1to_oczFkAc
+
+![working](https://greyballarini.github.io/assets/img/opossum_final.jpg)
+
 ![dark2](https://greyballarini.github.io/assets/img/opossum_dark_2.jpg)
-
-![dark](https://greyballarini.github.io/assets/img/final_dark.jpg)
 In the dark
-OTHER WORKING IMAGES
-
 
 ![alligator](https://greyballarini.github.io/assets/img/alligator_final.jpg)
 Alligator clip stage
@@ -51,3 +51,7 @@ Citations:
 Thank you to Grumpy_Mike on Arduino.cc for explaining how to code this kind of buzzer behavior.
 
 Source: https://forum.arduino.cc/t/how-do-you-increment-the-frequency-of-a-piezo-buzzer-for-a-specific-range/416823 
+
+![friends](https://greyballarini.github.io/assets/img/opossum_friends.jpg)
+
+![camera](https://greyballarini.github.io/assets/img/opossum_camera.jpg)
