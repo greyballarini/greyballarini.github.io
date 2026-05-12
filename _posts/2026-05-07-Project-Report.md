@@ -2,7 +2,7 @@
 layout: post
 title: Awesome Opossum
 subtitle: Project report
-cover-img: assets/img/opossum_more.jpg
+cover-img: assets/img/opossum_thumbnail.jpg
 thumbnail-img: assets/img/opossum_final.jpg
 tags: [opossum]
 author: Grey Ballarini
